@@ -11,6 +11,7 @@ def main():
     name = "Aaryav"
 
     print(f"{name}, Welcome to the CSS course!")
+    print("Hello my name is Aaryav and I making my second commit to the Git tree!")
 
 if __name__ == "__main__":
     main()
